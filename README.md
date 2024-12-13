@@ -59,8 +59,8 @@
 ![image](https://github.com/user-attachments/assets/6fbcd594-69ff-422a-beb6-bfc8cbf5b6e7)
 
 
-### Name: I S Ishita
-### Register Number:24003847
+### Name:A.RAFSHAAN AHMED
+### Register Number:24005401
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
